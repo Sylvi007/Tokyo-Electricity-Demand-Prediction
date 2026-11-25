@@ -1,0 +1,6 @@
+,MAE_GW,RMSE_GW,MAPE_pct,R2
+Baseline (seasonal average),2.847,3.822,9.203,0.689
+Linear Regression,1.763,2.238,5.899,0.893
+Random Forest,0.904,1.25,2.892,0.967
+Gradient Boosting,0.814,1.088,2.589,0.975
+TEPCO official forecast (reference),0.352,0.522,1.123,0.994
